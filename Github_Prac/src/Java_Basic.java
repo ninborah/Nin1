@@ -1,7 +1,7 @@
 
 public class Java_Basic
 {
-
+//this is just practice
 	public void method1()
 	{
 		System.out.println("This is MY Method_1 for drinking coffee");
